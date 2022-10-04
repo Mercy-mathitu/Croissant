@@ -19,6 +19,19 @@ img {
     margin-right: auto;
 }
 
+.nav-link {
+    display: flex;
+        margin-top: 40px;
+        justify-content: center;
+}
+.email-link {
+display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 28px;
+    text-decoration: none;
+}
+
 .links {
     display: flex;
     margin-top: 40px;
